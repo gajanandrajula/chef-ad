@@ -1,1 +1,1 @@
-default["apache"]["index.html"]="index1.html"
+default["apache"]["indexfile"] = "index1.html"
